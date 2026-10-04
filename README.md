@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabiano Santos
+# 👋 Hi, I'm Lucas Fabiano Santos
 
 ### 💻 Web Developer | Técnico em Informática | Front-end & JavaScript
 
