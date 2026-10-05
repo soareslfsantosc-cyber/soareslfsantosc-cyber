@@ -41,6 +41,23 @@ I'm a **Technical IT student** focused on web development, building projects to 
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48" />
 </p>
 
+### Web & APIs
+<p>
+  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge" height="48" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" height="48" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="48" />
+</p>
+
+### 3D & Graphics
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
+
+### Python Web Server
+<p>
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" height="48" />
+</p>
+
 ### Other Technologies
 <p>
   <img src="https://img.shields.io/badge/Antigravity-1F1F1F?style=for-the-badge" height="48" />
@@ -88,7 +105,7 @@ Study and documentation project about informatics and web development fundamenta
 
 ## 🎯 Currently Learning
 
-`JavaScript` • `React` • `Node.js` • `SQL` • `MySQL` • `UX Design` • `n8n` • `Antigravity` • `Git/GitHub`
+`JavaScript` • `React` • `Node.js` • `SQL` • `MySQL` • `HTTP` • `REST API` • `JSON` • `Three.js` • `Uvicorn` • `UX Design` • `n8n` • `Antigravity` • `Git/GitHub`
 
 > Building projects, improving my skills and preparing for my career in technology. 🚀
 
