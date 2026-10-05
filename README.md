@@ -32,17 +32,18 @@ I'm a **Technical IT student** focused on web development, building projects to 
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
 </p>
 
 ### Tools & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,n8n" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48" />
 </p>
 
 ### Other Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=antigravity" />
+  <img src="https://img.shields.io/badge/Antigravity-1F1F1F?style=for-the-badge" height="48" />
 </p>
 
 ---
