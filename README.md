@@ -30,9 +30,19 @@ I'm a **Technical IT student** focused on web development, building projects to 
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,flask" />
 </p>
 
-### Tools
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql" />
+</p>
+
+### Tools & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,n8n" />
+</p>
+
+### Other Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=antigravity" />
 </p>
 
 ---
@@ -77,7 +87,7 @@ Study and documentation project about informatics and web development fundamenta
 
 ## 🎯 Currently Learning
 
-`JavaScript` • `React` • `Node.js` • `UX Design` • `Git/GitHub`
+`JavaScript` • `React` • `Node.js` • `SQL` • `MySQL` • `UX Design` • `n8n` • `Antigravity` • `Git/GitHub`
 
 > Building projects, improving my skills and preparing for my career in technology. 🚀
 
