@@ -22,7 +22,7 @@ I'm a **Technical IT student** focused on web development, building projects to 
 
 ### Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 ### Back-end & Programming
@@ -105,7 +105,7 @@ Study and documentation project about informatics and web development fundamenta
 
 ## 🎯 Currently Learning
 
-`JavaScript` • `React` • `Node.js` • `SQL` • `MySQL` • `HTTP` • `REST API` • `JSON` • `Three.js` • `Uvicorn` • `UX Design` • `n8n` • `Antigravity` • `Git/GitHub`
+`JavaScript` • `React` • `Bootstrap` • `Node.js` • `SQL` • `MySQL` • `HTTP` • `REST API` • `JSON` • `Three.js` • `Uvicorn` • `UX Design` • `n8n` • `Antigravity` • `Git/GitHub`
 
 > Building projects, improving my skills and preparing for my career in technology. 🚀
 
