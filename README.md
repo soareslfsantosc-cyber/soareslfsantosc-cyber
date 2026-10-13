@@ -110,8 +110,10 @@ A documentation and study project about informatics and web development, includi
   <a href="https://github.com/soareslfsantosc-cyber">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://discord.com/users/redking_666._18584">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile" />
+  </a>
 </p>
-
 <div align="center">
 
 ⭐ Thanks for visiting my profile!
