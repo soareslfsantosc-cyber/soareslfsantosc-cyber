@@ -1,94 +1,74 @@
 # 👋 Hi, I'm Lucas Fabiano Santos
 
-### 💻 Web Developer | Técnico em Informática | Front-end & JavaScript
+### 💻 Técnico em Informática | Web Developer in Training | Front-end & JavaScript
 
-I'm a **Technical IT student** focused on web development, building projects to learn, experiment and turn ideas into real applications.
+I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web development and learning by building practical projects. I enjoy experimenting with interfaces, browser-based games, automation, and different ways to turn ideas into working software.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Técnico em Informática
-- 💻 Focused on **Web Development & Front-end**
-- ⚡ Main stack: **JavaScript, HTML5 & CSS3**
-- ⚛️ Currently exploring **React & Node.js**
+- 🎓 Studying **Técnico em Informática** (2025–2027)
+- 💻 Main focus: **Web Development, Front-end & JavaScript**
+- ⚡ Core technologies: **HTML5, CSS3 and JavaScript**
+- ⚛️ Exploring **React** and **Node.js**
+- 🐍 Also working with **Python** and **Flask**
 - 🎨 Studying **UX Design**
-- 🧠 I learn by building real projects
-- 🎮 Gamer in my free time
-
----
+- 🎮 Interested in games, interactive experiences, and creative technology
 
 ## 🛠️ Technologies & Tools
 
-### Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,php,python,flask,mysql,git,github,vscode,threejs" alt="Technologies" />
 </p>
 
-### Back-end & Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,flask" />
-</p>
-
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
-</p>
-
-### Tools & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48" />
-</p>
-
-### Web & APIs
-<p>
-  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge" height="48" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" height="48" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="48" />
-</p>
-
-### 3D & Graphics
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
-### Python Web Server
-<p>
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" height="48" />
-</p>
-
-### Other Technologies
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-1F1F1F?style=for-the-badge" height="48" />
+  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge" alt="HTTP" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/UX_Design-7B61FF?style=for-the-badge" alt="UX Design" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🤖 Jarvis Chatbot
-Web chatbot/support project built with HTML, CSS and JavaScript.
+### 🤖 Jarvis Chatbot & XBot v2.1
+Two approaches to a virtual assistant in one repository:
+- **Jarvis (main):** browser-based assistant with voice input/output, custom commands, settings, and conversation history using local storage.
+- **XBot v2.1 (branch `xbot-atual`):** educational assistant using Python/Flask, a local knowledge base, quizzes, practical exercises, and HTTP API endpoints.
 
-🔗 [View repository](https://github.com/soareslfsantosc-cyber/jarvis-chatbot)
+🔗 [Repository](https://github.com/soareslfsantosc-cyber/jarvis-chatbot) · [XBot branch](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/tree/xbot-atual) · [XBot documentation](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/blob/main/README_XBOT_V2.md)
 
 ### 🕶️ Login Hacker
-Cyberpunk-inspired login interface with visual effects and animations.
+A cyberpunk-inspired login interface built with HTML, CSS, and JavaScript, with visual effects and animations.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/login-hacker)
 
-### 🎮 XByte Games Studios
-Studio website concept focused on games, hardware, support and services.
+### 🧩 XByte Studios
+A studio website project with an original hardware catalog and a modernized version with project/game sections and an integrated historical memory game. The versions are organized in separate branches.
 
-🔗 [View repository](https://github.com/soareslfsantosc-cyber/xbyte-games-studios)
+🔗 [Repository](https://github.com/soareslfsantosc-cyber/xbyte-studios) · [Modern site branch](https://github.com/soareslfsantosc-cyber/xbyte-studios/tree/xbyte-games-studios)
 
-### 🧠 Quiz Gigabyte 4.0
-Interactive quiz project developed in Python.
+### 🎾 Tennis Pong
+A browser-based, pixel-art tennis arcade game using HTML Canvas and JavaScript. Includes CPU difficulty levels, local two-player mode, touch and keyboard controls, gamepad support, sound effects, and locally saved match records.
+
+🔗 [View repository](https://github.com/soareslfsantosc-cyber/tennis-pong)
+
+### 🧠 Historical Memory Game
+A responsive browser game with 16 cards featuring eight historical figures, biographies, attempt tracking, and a local leaderboard.
+
+🔗 [View repository](https://github.com/soareslfsantosc-cyber/jogo_da_memoria-historico)
+
+### 🧩 Quiz Gigabyte 4.0
+An interactive quiz project developed in Python.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/Quiz-Gigabyte-4.0)
 
-### 📚 Fundamentos da Informática
-Study and documentation project about informatics and web development fundamentals.
+### 📚 Informatics Fundamentals & Study Notes
+A documentation and study project about informatics and web development, including study guides, objectives, methodology, and notes on prompt engineering.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/fundamentos-informatica-notebooklm)
 
@@ -97,29 +77,27 @@ Study and documentation project about informatics and web development fundamenta
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soareslfsantosc-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soareslfsantosc-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soareslfsantosc-cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soareslfsantosc-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
+## 📖 Currently Learning & Practicing
 
-`JavaScript` • `React` • `Bootstrap` • `Node.js` • `SQL` • `MySQL` • `HTTP` • `REST API` • `JSON` • `Three.js` • `Uvicorn` • `UX Design` • `n8n` • `Antigravity` • `Git/GitHub`
+`JavaScript` · `React` · `Node.js` · `HTML5` · `CSS3` · `Bootstrap` · `Python/Flask` · `HTTP` · `REST APIs` · `JSON` · `Three.js` · `SQL/MySQL` · `Git/GitHub` · `UX Design` · `n8n` · `Uvicorn`
 
-> Building projects, improving my skills and preparing for my career in technology. 🚀
+> Learning by building, documenting, testing, and improving projects one commit at a time. 🚀
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect
 
 <p>
   <a href="https://github.com/soareslfsantosc-cyber">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
-
----
 
 <div align="center">
 
