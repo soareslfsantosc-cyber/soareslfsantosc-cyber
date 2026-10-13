@@ -74,11 +74,19 @@ A documentation and study project about informatics and web development, includi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soareslfsantosc-cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soareslfsantosc-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=soareslfsantosc-cyber&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics including all commits" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soareslfsantosc-cyber&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Most-used programming languages across public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soareslfsantosc-cyber&theme=tokyonight&hide_border=true" alt="GitHub contribution streak and commit activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soareslfsantosc-cyber&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
