@@ -16,6 +16,11 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 - 🎨 Studying **UX Design**
 - 🎮 Interested in games, interactive experiences, and creative technology
 
+## 🌐 Languages
+
+- 🇧🇷 **Portuguese:** Native
+- 🇺🇸 **English:** Intermediate
+
 ## 🛠️ Technologies & Tools
 
 <p>
