@@ -40,12 +40,21 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 
 ## 🌟 Featured Projects
 
-### 🤖 Jarvis Chatbot & XBot v2.1
-Two approaches to a virtual assistant in one repository:
-- **Jarvis (main):** browser-based assistant with voice input/output, custom commands, settings, and conversation history using local storage.
-- **XBot v2.1 (branch `xbot-atual`):** educational assistant using Python/Flask, a local knowledge base, quizzes, practical exercises, and HTTP API endpoints.
+### 🤖 Jarvis Chatbot & XBot Evolution
 
-🔗 [Repository](https://github.com/soareslfsantosc-cyber/jarvis-chatbot) · [XBot branch](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/tree/xbot-atual) · [XBot documentation](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/blob/main/README_XBOT_V2.md)
+A virtual-assistant project preserved in three separate branches, showing its evolution from a browser-based assistant to a more structured educational chatbot.
+
+| Version | Branch | Main focus |
+|---|---|---|
+| **Jarvis Original** | [`main`](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/tree/main) | HTML, CSS and JavaScript in the browser, voice features, commands, settings and local storage |
+| **XBot 2.1** | [`xbot-atual`](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/tree/xbot-atual) | Python/Flask assistant with local knowledge, educational content, quizzes, exercises and HTTP API endpoints |
+| **XBot v0.3.0 Beta** | [`xbot-v0.3.0`](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/tree/xbot-v0.3.0) | Builds on the educational assistant with SQLite persistence, account registration/login, guest access, session controls and additional security protections |
+
+**Key comparison:** Jarvis Original prioritizes a browser-native assistant experience; XBot 2.1 shifts toward a Python/Flask educational assistant; XBot v0.3.0 Beta adds a more structured backend, persistent account/knowledge data and security controls. The two XBot versions use local knowledge/reasoning and do **not** integrate an external generative-AI API. In v0.3.0 Beta, chat history and active quiz progress remain in memory and reset when the server restarts.
+
+> **Status:** XBot v0.3.0 is a beta version under active development, not the final release yet.
+
+🔗 [Repository](https://github.com/soareslfsantosc-cyber/jarvis-chatbot) · [Full three-version comparison](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/blob/xbot-v0.3.0/README.md) · [XBot v0.3.0 guide](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/blob/xbot-v0.3.0/README_XBOT_V0.3.0.md)
 
 ### 🕶️ Login Hacker
 A cyberpunk-inspired login interface built with HTML, CSS, and JavaScript, with visual effects and animations.
