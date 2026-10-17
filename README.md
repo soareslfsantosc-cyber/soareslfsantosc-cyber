@@ -69,14 +69,6 @@ A studio website project with an original hardware catalog and a modernized vers
 
 🔗 [Repository](https://github.com/soareslfsantosc-cyber/xbyte-studios) · [Modern site branch](https://github.com/soareslfsantosc-cyber/xbyte-studios/tree/xbyte-games-studios)
 
-### ⚙️ Xbyte FlowDesk — n8n Automation Planning
-
-A DIO learning challenge documented in Markdown, focused on planning a support-ticket workflow using n8n. The proposal covers webhook input, JSON validation, normalization, priority classification, database storage, notifications, idempotency, and error handling.
-
-**Status:** This repository contains the workflow plan and prompt specification. The n8n workflow itself is **not claimed to be implemented or tested yet**.
-
-🔗 [Read the FlowDesk challenge](https://github.com/soareslfsantosc-cyber/xbyte-studios/blob/main/desafios/dio-n8n-xbyte-flowdesk.md)
-
 ### 🎾 Tennis Pong
 
 A browser-based, pixel-art tennis arcade game using HTML Canvas and JavaScript. Includes CPU difficulty levels, local two-player mode, touch and keyboard controls, gamepad support, sound effects, and locally saved match records.
@@ -112,13 +104,6 @@ An interactive quiz project developed in Python, with questions, answers, and sc
 A documentation and study project about informatics and web development, including study guides, objectives, methodology, FAQs, and notes on prompt engineering and using NotebookLM as a learning aid.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/fundamentos-informatica-notebooklm)
-
-### 📝 Project Review Notes
-
-- **Best examples of interactive front-end work:** Tennis Pong, Air Hockey Game, Subway Super Hopper, and Historical Memory Game.
-- **Best example of iterative backend learning:** Jarvis and the XBot branches, which document architectural changes and known limitations.
-- **Automation/documentation in progress:** Xbyte FlowDesk currently documents a proposed n8n workflow rather than a deployed automation.
-- **Next improvements:** add screenshots or short demos to selected repositories, document repeatable test steps, and keep each README aligned with the actual implementation and current project status.
 
 ---
 
