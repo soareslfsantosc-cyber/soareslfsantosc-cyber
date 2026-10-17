@@ -15,6 +15,7 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 - 🐍 Also working with **Python** and **Flask**
 - 🎨 Studying **UX Design**
 - 🎮 Interested in games, interactive experiences, and creative technology
+- 🧩 Building a portfolio through practical projects, technical documentation, and iterative improvements
 
 ## 🌐 Languages
 
@@ -57,34 +58,67 @@ A virtual-assistant project preserved in three separate branches, showing its ev
 🔗 [Repository](https://github.com/soareslfsantosc-cyber/jarvis-chatbot) · [Full three-version comparison](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/blob/xbot-v0.3.0/README.md) · [XBot v0.3.0 guide](https://github.com/soareslfsantosc-cyber/jarvis-chatbot/blob/xbot-v0.3.0/README_XBOT_V0.3.0.md)
 
 ### 🕶️ Login Hacker
-A cyberpunk-inspired login interface built with HTML, CSS, and JavaScript, with visual effects and animations.
+
+A cyberpunk-inspired login interface built with HTML, CSS, and JavaScript, with visual effects and animations. It is a front-end showcase, not a production authentication service.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/login-hacker)
 
 ### 🧩 XByte Studios
-A studio website project with an original hardware catalog and a modernized version with project/game sections and an integrated historical memory game. The versions are organized in separate branches.
+
+A studio website project with an original hardware catalog and a modernized version with project/game sections. The versions are organized in separate branches.
 
 🔗 [Repository](https://github.com/soareslfsantosc-cyber/xbyte-studios) · [Modern site branch](https://github.com/soareslfsantosc-cyber/xbyte-studios/tree/xbyte-games-studios)
 
+### ⚙️ Xbyte FlowDesk — n8n Automation Planning
+
+A DIO learning challenge documented in Markdown, focused on planning a support-ticket workflow using n8n. The proposal covers webhook input, JSON validation, normalization, priority classification, database storage, notifications, idempotency, and error handling.
+
+**Status:** This repository contains the workflow plan and prompt specification. The n8n workflow itself is **not claimed to be implemented or tested yet**.
+
+🔗 [Read the FlowDesk challenge](https://github.com/soareslfsantosc-cyber/xbyte-studios/blob/main/desafios/dio-n8n-xbyte-flowdesk.md)
+
 ### 🎾 Tennis Pong
+
 A browser-based, pixel-art tennis arcade game using HTML Canvas and JavaScript. Includes CPU difficulty levels, local two-player mode, touch and keyboard controls, gamepad support, sound effects, and locally saved match records.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/tennis-pong)
 
+### 🏒 Air Hockey Game
+
+A browser arcade game built with HTML, CSS, JavaScript, Canvas 2D, and the Web Audio API. Features CPU opposition, disk physics, scoring to seven goals, touch/mouse controls, sound effects, particles, and visual feedback.
+
+🔗 [View repository](https://github.com/soareslfsantosc-cyber/air-hockey-game)
+
+### 🏃 Subway Super Hopper
+
+A lightweight 3D endless-runner browser game built with JavaScript modules and Three.js. Features three-lane movement, jumping, generated obstacles, multiple visual themes, increasing speed, and start/game-over states.
+
+🔗 [View repository](https://github.com/soareslfsantosc-cyber/subway-super-hopper-game)
+
 ### 🧠 Historical Memory Game
-A responsive browser game with 16 cards featuring eight historical figures, biographies, attempt tracking, and a local leaderboard.
+
+A responsive browser game with 16 cards featuring eight historical figures, biographies, attempt tracking, and a local leaderboard. Built with HTML, CSS, and JavaScript.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/jogo_da_memoria-historico)
 
 ### 🧩 Quiz Gigabyte 4.0
-An interactive quiz project developed in Python.
+
+An interactive quiz project developed in Python, with questions, answers, and score tracking.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/Quiz-Gigabyte-4.0)
 
 ### 📚 Informatics Fundamentals & Study Notes
-A documentation and study project about informatics and web development, including study guides, objectives, methodology, and notes on prompt engineering.
+
+A documentation and study project about informatics and web development, including study guides, objectives, methodology, FAQs, and notes on prompt engineering and using NotebookLM as a learning aid.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/fundamentos-informatica-notebooklm)
+
+### 📝 Project Review Notes
+
+- **Best examples of interactive front-end work:** Tennis Pong, Air Hockey Game, Subway Super Hopper, and Historical Memory Game.
+- **Best example of iterative backend learning:** Jarvis and the XBot branches, which document architectural changes and known limitations.
+- **Automation/documentation in progress:** Xbyte FlowDesk currently documents a proposed n8n workflow rather than a deployed automation.
+- **Next improvements:** add screenshots or short demos to selected repositories, document repeatable test steps, and keep each README aligned with the actual implementation and current project status.
 
 ---
 
