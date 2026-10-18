@@ -35,6 +35,7 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
   <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/UX_Design-7B61FF?style=for-the-badge" alt="UX Design" />
+  <a href="https://antigravity.google/" title="Google Antigravity IDE"><img src="https://img.shields.io/badge/Google_Antigravity-IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" /></a>
 </p>
 
 ---
