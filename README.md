@@ -87,6 +87,13 @@ A lightweight 3D endless-runner browser game built with JavaScript modules and T
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/subway-super-hopper-game)
 
+
+### 🏎️ OutRun Game
+
+An arcade-style browser racing game inspired by classic pseudo-3D racers. Features a winding road, elevation changes, rival traffic, a countdown timer, speed and lap-time displays, scoring, and keyboard controls. Built with HTML, CSS, and JavaScript.
+
+🔗 [View repository](https://github.com/soareslfsantosc-cyber/outrun-game)
+
 ### 🧠 Historical Memory Game
 
 A responsive browser game with 16 cards featuring eight historical figures, biographies, attempt tracking, and a local leaderboard. Built with HTML, CSS, and JavaScript.
@@ -98,12 +105,6 @@ A responsive browser game with 16 cards featuring eight historical figures, biog
 An interactive quiz project developed in Python, with questions, answers, and score tracking.
 
 🔗 [View repository](https://github.com/soareslfsantosc-cyber/Quiz-Gigabyte-4.0)
-
-### 📚 Informatics Fundamentals & Study Notes
-
-A documentation and study project about informatics and web development, including study guides, objectives, methodology, FAQs, and notes on prompt engineering and using NotebookLM as a learning aid.
-
-🔗 [View repository](https://github.com/soareslfsantosc-cyber/fundamentos-informatica-notebooklm)
 
 ---
 
