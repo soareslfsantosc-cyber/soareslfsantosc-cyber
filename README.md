@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Fabiano Santos
 
-### 💻 Técnico em Informática | Web Developer in Training | Front-end & JavaScript
+### 💻 Técnico em Informática | Web Developer in Training | Front-end & Back-end
 
 I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web development and learning by building practical projects. I enjoy experimenting with interfaces, browser-based games, automation, and different ways to turn ideas into working software.
 
