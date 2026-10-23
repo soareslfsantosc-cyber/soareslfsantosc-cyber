@@ -24,19 +24,39 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 
 ## 🛠️ Technologies & Tools
 
+### 🎨 Front-end Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,php,python,flask,mysql,git,github,vscode,threejs" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,threejs" alt="Front-end technologies" />
 </p>
 
+### ⚙️ Back-end Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,flask" alt="Back-end technologies" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn" />
+</p>
+
+### 🗄️ Databases & Data Formats
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
+
+### 🔌 Web & APIs
 <p>
   <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge" alt="HTTP" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/UX_Design-7B61FF?style=for-the-badge" alt="UX Design" />
 </p>
 
+### 🧰 Development Tools & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+### 🎯 Design
+<p>
+  <img src="https://img.shields.io/badge/UX_Design-7B61FF?style=for-the-badge" alt="UX Design" />
+</p>
 ---
 
 ## 🌟 Featured Projects
