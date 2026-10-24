@@ -51,7 +51,7 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor" alt="Git, GitHub, Visual Studio Code and Cursor IDE" />
   <img src="https://cdn.simpleicons.org/googleantigravity/white" width="48" height="48" alt="Google Antigravity IDE icon" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n icon" />
 </p>
 
 ### 🎯 Design
