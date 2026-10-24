@@ -43,8 +43,8 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 
 ### 🔌 Web & APIs
 <p>
-  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge" alt="HTTP" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="./assets/https-icon.svg" width="48" height="48" alt="HTTPS icon" />
+  <img src="./assets/rest-api-icon.svg" width="48" height="48" alt="REST API icon" />
 </p>
 
 ### 🧰 Development Tools & Automation
