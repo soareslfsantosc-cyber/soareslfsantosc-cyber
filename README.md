@@ -32,13 +32,13 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 ### ⚙️ Back-end Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,flask" alt="Back-end technologies" />
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn" />
+  <img src="./assets/uvicorn-icon.svg" width="48" height="48" alt="Uvicorn icon" />
 </p>
 
 ### 🗄️ Databases & Data Formats
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="./assets/json-icon.svg" width="48" height="48" alt="JSON icon" />
 </p>
 
 ### 🔌 Web & APIs
@@ -57,7 +57,7 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 
 ### 🎯 Design
 <p>
-  <img src="https://img.shields.io/badge/UX_Design-7B61FF?style=for-the-badge" alt="UX Design" />
+  <img src="./assets/ux-design-icon.svg" width="48" height="48" alt="UX Design icon" />
 </p>
 ---
 
