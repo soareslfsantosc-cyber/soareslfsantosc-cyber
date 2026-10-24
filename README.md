@@ -50,6 +50,8 @@ I'm a Technical Informatics student from Rio de Janeiro, Brazil, focused on web 
 ### 🧰 Development Tools & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
