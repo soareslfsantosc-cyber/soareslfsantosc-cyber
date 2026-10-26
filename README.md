@@ -149,7 +149,7 @@ An interactive quiz project developed in Python, with questions, answers, and sc
 
 ## 📖 Currently Learning & Practicing
 
-`JavaScript` · `React` · `Node.js` · `HTML5` · `CSS3` · `Bootstrap` · `Python/Flask` · `HTTP` · `REST APIs` · `JSON` · `Three.js` · `SQL/MySQL` · `Git/GitHub` · `UX Design` · `n8n` · `Uvicorn`
+`JavaScript` · `React` · `Node.js` · `HTML5` · `CSS3` · `Bootstrap` · `Python/Flask` · `PHP` · `HTTP/HTTPS` · `REST APIs` · `JSON` · `Three.js` · `SQL/MySQL` · `Git/GitHub` · `Visual Studio Code` · `Cursor IDE` · `Google Antigravity` · `UX Design` · `n8n` · `Uvicorn`
 
 > Learning by building, documenting, testing, and improving projects one commit at a time. 🚀
 
